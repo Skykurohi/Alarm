@@ -9,7 +9,7 @@ Script that plays a shuffled playlist, starting with a different song every time
 - SoundVolumeView: https://www.nirsoft.net/utils/sound_volume_view.html
   - Install executable into tools folder
 
-- Modify script variables under # Configure
+- Modify script variables in alarm.py to match your environment
 
 - Add a schedule in Windows Task Scheduler to run alarm.bat at whatever frequency/setting you desire
 
