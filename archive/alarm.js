@@ -1,6 +1,7 @@
 const cp = require('child_process');
 const { exit } = require('process');
 
+// Configure
 const playlist_path = `C:\\Users\\BlazingSky\\AppData\\Roaming\\Winamp\\Plugins\\ml\\playlists\\plf8E17.m3u8`
 const player_path   = `M:\\Projects\\Development\\Alarm\\tools\\foobar2000\\foobar2000.exe`
 const svw_path      = `M:\\Projects\\Development\\Alarm\\tools\\SoundVolumeView.exe`
