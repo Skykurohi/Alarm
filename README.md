@@ -3,6 +3,8 @@ Script that plays a shuffled playlist, starting with a different song every time
 
 # Installation
 
+- Python 3.x: https://www.python.org/downloads/ 
+
 - foobar2000: https://www.foobar2000.org/download
   - Install standalone portable installation into tools folder
 
