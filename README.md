@@ -1,5 +1,5 @@
 # Shuffle-Playlist-Alarm
-Script that plays a shuffled playlist, starting with a different song every time it is executed with volume adjustment
+Script that plays a shuffled playlist, starting with a different song every time it is executed with scaling volume adjustment
 
 # Installation
 
