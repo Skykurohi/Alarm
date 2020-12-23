@@ -1,0 +1,3 @@
+tools/foobar2000
+tools/*.exe
+*.log
