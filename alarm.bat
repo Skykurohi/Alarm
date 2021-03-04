@@ -1,2 +1,2 @@
 python alarm.py
-timeout 10
+sleep 10
