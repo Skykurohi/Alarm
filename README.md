@@ -3,7 +3,7 @@ Script that plays a shuffled playlist, starting with a different song every time
 
 # Installation
 
-- Python 3.x: https://www.python.org/downloads/
+- Python 3.x: https://www.python.org/downloads/ 
 
 - foobar2000: https://www.foobar2000.org/download
   - Install standalone portable installation into tools folder
@@ -13,10 +13,7 @@ Script that plays a shuffled playlist, starting with a different song every time
 
 - Modify script variables in alarm.py to match your environment
 
-- Add a schedule in Windows Task Scheduler to invoke "python alarm.py" at whatever frequency/setting you desire
-  - Program/script: "python"
-  - Add arguments: "alarm.py"
-  - Start in: "/path/to/repository/"
+- Add a schedule in Windows Task Scheduler to run alarm.bat at whatever frequency/setting you desire
 
 - Change playback settings in foobar2000 as desired
   - Playback > Order > Random (To have a random song play every run)
