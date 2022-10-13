@@ -8,8 +8,8 @@ player_path   = 'M:\\Projects\\Development\\Alarm\\tools\\foobar2000\\foobar2000
 svv_path      = 'M:\\Projects\\Development\\Alarm\\tools\\SoundVolumeView.exe'
 svv_target    = 'Headphones'
 
-initial_volume = 10
-final_volume   = 20
+initial_volume = 20
+final_volume   = 35
 
 def execute(cmd, wait=True):
   print(cmd)

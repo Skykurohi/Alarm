@@ -2,14 +2,13 @@
 Script that plays a shuffled playlist, starting with a different song every time it is executed with scaling volume adjustment
 
 # Installation
-
-- Python 3.x: https://www.python.org/downloads/ 
+- Python 3.x: https://www.python.org/downloads/
 
 - foobar2000: https://www.foobar2000.org/download
-  - Install standalone portable installation into tools folder
+  - Install standalone portable installation into /tools folder
 
 - SoundVolumeView: https://www.nirsoft.net/utils/sound_volume_view.html
-  - Install executable into tools folder
+  - Install executable into /tools folder
 
 - Modify script variables in alarm.py to match your environment
 
