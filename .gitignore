@@ -1,3 +1,2 @@
-tools/foobar2000
-tools/*.exe
+tools
 *.log
